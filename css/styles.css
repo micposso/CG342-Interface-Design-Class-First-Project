@@ -20,4 +20,14 @@ p {
     border-width: 2px;
     text-decoration: none;
     color: black;
+    padding: 4px;
+    border-radius: 10px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-alert {
+    
 }
