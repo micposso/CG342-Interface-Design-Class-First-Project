@@ -2,6 +2,7 @@ body {
     background-color: azure;
 }
 
+/* typography */
 h1 {
     color:blueviolet;
     font-size: 60px;
@@ -10,4 +11,13 @@ h1 {
 p {
     font-size: 18px;
     color: darkgoldenrod;
+}
+
+.button-links {
+    border-style: solid;
+    border-color: crimson;
+    background-color: cornsilk;
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
 }
