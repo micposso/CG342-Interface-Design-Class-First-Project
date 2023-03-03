@@ -1,7 +1,7 @@
 html {
     scroll-behavior: smooth;
   }
-  
+
 body {
     background-color: azure;
     margin: 0;
@@ -35,6 +35,9 @@ p {
 
 nav {
     padding: 20px;
+    position: fixed;
+    width: 100%;
+    background-color: white;
 }
 
 .nav-links {
