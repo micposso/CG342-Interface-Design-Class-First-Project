@@ -63,6 +63,8 @@ nav {
     padding-top: 110px;
     background-color: cornflowerblue;
     background-image: url("https://images.pexels.com/photos/1423600/pexels-photo-1423600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .main-content {
