@@ -35,8 +35,10 @@ nav {
 
 .nav-links {
     list-style-type: none;
-    margin: 0;
+    width: 200px;
+    margin: 0 auto;
     padding: 0;
+    text-align: center;
 }
 
 .nav-links li {
