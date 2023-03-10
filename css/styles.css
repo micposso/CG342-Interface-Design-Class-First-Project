@@ -79,6 +79,14 @@ footer {
     background-color: grey;
 }
 
+img {
+    width:100%;
+}
+
+.article-image {
+    width: 300px;
+}
+
 /* Mobile styles */
 
 @media only screen and (max-width: 600px) {
