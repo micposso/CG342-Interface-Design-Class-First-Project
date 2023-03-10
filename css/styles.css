@@ -110,4 +110,9 @@ img {
         color: #fff;
     }
 
+    .article-image {
+        border: 1px solid #000;
+        width: 100%;
+    }
+
   }
